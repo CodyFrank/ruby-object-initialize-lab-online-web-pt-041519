@@ -3,7 +3,7 @@ class Person
     @name = name
   end
 
-  attr_reader :name
+  #attr_reader :name
   # def name
   #   @name
   # end
